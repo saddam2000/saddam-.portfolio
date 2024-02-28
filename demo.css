@@ -1,0 +1,13 @@
+.ss{
+	background-image: url(er.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 250px;
+	
+}
+* {
+        font-family: 'Tangerine', serif;
+      }
+      .pd{
+      	padding: 70px;
+      }
